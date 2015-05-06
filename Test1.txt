@@ -1,3 +1,2 @@
 primera modificacion
-Segunda modificacion Despues de subir al repositorio remoto.
-12
+Despues de subir al repositorio remoto.
